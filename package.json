@@ -1,0 +1,24 @@
+{
+  "name": "distirbuted-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.4.1",
+    "@grpc/proto-loader": "^0.6.6",
+    "autocannon": "^7.5.0",
+    "fastify": "^3.22.1",
+    "fastify-gql": "^5.8.2",
+    "graphql": "^15.6.1",
+    "grpc": "^1.24.11",
+    "ioredis": "^4.28.0",
+    "node-fetch": "2.6.1"
+  }
+}
