@@ -19,6 +19,10 @@
     "graphql": "^15.6.1",
     "grpc": "^1.24.11",
     "ioredis": "^4.28.0",
-    "node-fetch": "2.6.1"
+    "middie": "^5.3.0",
+    "node-fetch": "2.6.1",
+    "pg": "^8.7.1",
+    "statsd-client": "^0.4.7",
+    "zipkin-lite": "^0.1.1"
   }
 }

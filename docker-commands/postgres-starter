@@ -1,0 +1,14 @@
+# start postgres:
+docker run \
+--rm \
+-p 5432:5432 \
+-e POSTGRES_PASSWORD=fxh \
+-e POSTGRES_USER=tmp \
+-e POSTGRES_DB=tmp \
+--name fxh-progress postgres
+
+#start redis:
+docker run \
+--rm \
+-p 6379:6379
+redis
