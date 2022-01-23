@@ -19,6 +19,6 @@
     "graphql": "^15.6.1",
     "grpc": "^1.24.11",
     "ioredis": "^4.28.0",
-    "node-fetch": "2.6.1"
+    "node-fetch": "3.1.1"
   }
 }
