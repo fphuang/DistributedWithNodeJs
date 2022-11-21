@@ -14,7 +14,7 @@
     "@grpc/grpc-js": "^1.4.1",
     "@grpc/proto-loader": "^0.6.6",
     "autocannon": "^7.5.0",
-    "fastify": "^3.22.1",
+    "fastify": "^3.29.4",
     "fastify-gql": "^5.8.2",
     "graphql": "^15.6.1",
     "grpc": "^1.24.11",
